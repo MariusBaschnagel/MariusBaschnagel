@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusBaschnagel&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusBaschnagel&theme=dracula&hide=css)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariusBaschnagel&show_icons=true&theme=dracula&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariusBaschnagel&theme=dracula&count_private=true)
